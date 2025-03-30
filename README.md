@@ -6,30 +6,22 @@ This application supports full user authentication, enabling each pilot to secur
 Pilots can also store their license and drone registration details, with automatic reminders for upcoming expirations. A built-in resources section provides FAA guidelines for safe and legal drone operation, helping users stay informed and compliant.
 
 Key Features
-User Accounts & Authentication
-Sign-up and sign-in functionality with per-user data stored in localStorage.
 
-Flight Logging System
-Record flight date, location, times, purpose, pre-flight checks, battery use, and post-flight notes.
+User Accounts & Authentication - Sign-up and sign-in functionality with per-user data stored in localStorage.
 
-Dashboard Overview
-Displays total flights, total flight time, average flight time, and average battery usage.
+Flight Logging System - Record flight date, location, times, purpose, pre-flight checks, battery use, and post-flight notes.
 
-Profile Management
-Store pilot license ID, license expiration, drone registration number, and registration expiration.
+Dashboard Overview - Displays total flights, total flight time, average flight time, and average battery usage.
 
-Automated Expiration Alerts
-Alerts users when license or registration is within 30 days of expiring.
+Profile Management - Store pilot license ID, license expiration, drone registration number, and registration expiration.
 
-Flight History Table
-View previous logs with date, location, duration, battery usage, and notes.
+Automated Expiration Alerts - Alerts users when license or registration is within 30 days of expiring.
 
-FAA Resources Section
-Includes a summary of FAA rules, tips, and a link to the official FAA UAS site.
+Flight History Table - View previous logs with date, location, duration, battery usage, and notes.
 
-Responsive UI
-Fully mobile-friendly and styled using Tailwind CSS for a clean, modern layout.
+FAA Resources Section - Includes a summary of FAA rules, tips, and a link to the official FAA UAS site.
 
-Offline-Ready
-Runs entirely in the browser without a backend—data is saved to the device.
+Responsive UI - Fully mobile-friendly and styled using Tailwind CSS for a clean, modern layout.
+
+Offline-Ready - Runs entirely in the browser without a backend—data is saved to the device.
 
